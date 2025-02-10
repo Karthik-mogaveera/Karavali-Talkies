@@ -29,7 +29,7 @@ Razorpay
 
 ## 🚫 Repository Notice  
 🔒 **Code Not Publicly Available**  
-This project was developed for **Karavali Talkies** and cannot be shared publicly due to institutional restrictions.  
+This project was developed for **Karavali Talkies** and cannot be shared publicly due to organizational restrictions.  
 
 ## 📩 Contact  
 For any queries, contact **Karthik** at 📧 [karthikmogaveer536@gmail.com]
